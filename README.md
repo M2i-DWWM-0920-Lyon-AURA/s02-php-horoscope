@@ -1,7 +1,19 @@
-## Charte graphique
+# Horoscope, le retour
 
-- **Couleur de fond:** #131b31
-- **Fonte des titres:** Gugi
+## Travail à réaliser
+
+### 1. Activer PHP
+
+- Renommer le fichier **index.html** en **index.php**.
+- Créer un site dans Wamp.net afin de pouvoir accéder à la page.
+
+### 2. Factoriser les liens
+
+Utiliser PHP pour que le code de chaque lien dans la section ressource ne soit écrit qu'une seule fois.
+
+### 3. Factoriser les signes
+
+Utiliser PHP pour que le code de chaque section de l'horoscope ne soit écrit qu'une seule fois.
 
 ## Textes
 
