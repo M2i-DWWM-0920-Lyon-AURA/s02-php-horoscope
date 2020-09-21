@@ -15,6 +15,10 @@ Utiliser PHP pour que le code de chaque lien dans la section ressource ne soit �
 
 Utiliser PHP pour que le code de chaque section de l'horoscope ne soit écrit qu'une seule fois.
 
+### BONUS: Afficher le signe de l'utilisateur en surbrillance
+
+Trouver un moyen pour que, le nom d'un des douze signes étant contenu dans une variable, le signe correspondant ait un affichage particulier dans la page.
+
 ## Textes
 
 - Intro
